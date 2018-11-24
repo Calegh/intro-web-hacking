@@ -5,7 +5,7 @@ author: Corrine
 
 # Présenté par 
 
-![Association Générale des Étudiantes et Étudiants en Informatique]()
+![Association Générale des Étudiantes et Étudiants en Informatique](AGEEI_logo2015.eps)
 
 # C'est quoi ?
 
@@ -18,6 +18,8 @@ author: Corrine
 
 ## Depuis combien de temps ?
 ## Combien d'université
+
+# Photos des CS Games 2018
 
 # Compétence requise
 
