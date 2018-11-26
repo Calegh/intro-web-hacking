@@ -2,13 +2,12 @@
 title: 
 - CS Games 
 author:
-- Corine Pulgar - Adjointe Compétition
-
+- Corine Pulgar - Adjointe Compétition \newline
 - Philippe Van Velzen - VP Compétition
 ---
 
 # Présenté par 
-![](AGEEI_logo2015.eps)
+![](img/AGEEI_logo2015.eps)
 
 
 # C'est quoi ?
@@ -31,7 +30,7 @@ author:
 **Précédemment aux CS games**
 
 ## Depuis combien de temps ?
-![](historique.png)
+![](img/historique.png)
 
 ## Combien d'université
 Pleins... Genre plus que 10!
@@ -54,11 +53,15 @@ Pleins... Genre plus que 10!
 # Compétence requise
 + Aimer la prog et être motivié <3
 
-# CS Games 2019
-Organiser par la polytechnique
+#
+![](img/cs2019.png)
+  
+*Organiser par la polytechnique*
+
+[CS Games 2019](http://2019.csgames.org)
 
 # Objectif
-![](win.jpg)
+![](img/win.jpg)
 
 # Qualif
 Ouverture le 14 janvier 00:00:02!!
