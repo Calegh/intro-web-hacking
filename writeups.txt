@@ -1,0 +1,32 @@
+INSPECT ME
+http://2018shell.picoctf.com:53213/
+
+index
+picoCTF{ur_4_real_1nspe
+
+mycss.css
+ct0r_g4dget_402b0bd3}
+
+myjs.js
+Just part 3 of 3, no text.
+
+FLAG : picoCTF{ur_4_real_1nspect0r_g4dget_402b0bd3}
+
+---
+
+IRISH NAME REPO
+http://2018shell.picoctf.com:59464/
+
+Support page tells us it's in SQL, so let's do a simple SQL injection :
+' OR 1=1 --
+
+FLAG : picoCTF{con4n_r3411y_1snt_1r1sh_d121ca0b}
+
+---
+
+CLIENT SIDE IS STILL BAD
+http://2018shell.picoctf.com:8249/
+
+
+
+
