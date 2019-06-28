@@ -1,6 +1,6 @@
-# Présentation des CS Games 2018
+# Introduction to web hacking
+Workshop presented at Lighthouse Labs, June 2019
 
-# Compiler le fichier en markdown
+## Compiling
+You will need beamer and pandoc to compile the markdown in pdf.
 
-Pour compiler le fichier markdown en PDF il faut 
-avoir les logiciels beamer et pandoc.
