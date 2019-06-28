@@ -22,10 +22,10 @@ Corinne Pulgar
 
 # What's hacking ?
 
-## A quote from Richard Stallman
+## To put it simply 
 > It is hard to write a simple definition of something as varied as hacking, but I think what these activities have in common is playfulness, cleverness, and exploration. Thus, hacking means exploring the limits of what is possible, in a spirit of playful cleverness. Activities that display playful cleverness have "hack value".
 </br>
-https://stallman.org/articles/on-hacking.html
+[- Richard Stallman](https://stallman.org/articles/on-hacking.html)
 
 ## To resume 
 + Playfulness
@@ -45,11 +45,11 @@ https://stallman.org/articles/on-hacking.html
 
 ## What's a CTF ?
 It looks a lot like this ...
-![](img/ctf.jpg)
+![Northsec2019](img/ctf.jpg)
 
 ## Finding the flag
 + A simple string of characters
-+ With a specific format : LHL{This_is_a_flag}
++ With a specific format : `LHL{This_is_a_flag}`
 + Usually with bad puns
 
 ## Different kinds of hacking
@@ -61,16 +61,16 @@ It looks a lot like this ...
 + <em>Web hacking</em>
 
 ## Some popular competitions on site
-+ Hackfest
-+ Northsec
-+ MontreHack
++ [Hackfest](https://hackfest.ca/en/)
++ [Northsec](https://www.nsec.io/)
++ [MontreHack](https://montrehack.ca/)
 
 ## And online :
-+ RingZero
-+ CTF365
-+ HackTheBox
-+ OverTheWire
-+ Find all of them on CTFTime
++ [RingZero](https://ringzer0ctf.com/)
++ [CTF365](https://ctf365.com/)
++ [HackTheBox](https://www.hackthebox.eu/)
++ [OverTheWire](http://overthewire.org/wargames/)
++ Find all of them on [CTFTime](https://ctftime.org/)
 
 # A (very) small glimpse of web hacking
 ## PicoCTF
@@ -97,3 +97,6 @@ http://2018shell.picoctf.com:8249/
 Sugar is bad for you
 </br>
 http://2018shell.picoctf.com:37861/
+
+# Congratulations!
+## You're a hacker now!

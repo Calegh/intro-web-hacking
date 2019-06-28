@@ -4,3 +4,5 @@ presentation.html : webHacking.md
 presentation.pdf : webHacking.md
 	pandoc webHacking.md -t beamer -o presentation.pdf
 
+clean :
+	rm -rf *.pdf *.html
